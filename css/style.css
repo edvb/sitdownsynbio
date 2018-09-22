@@ -1,0 +1,31 @@
+/* body { */
+/*     font-family: Crafty Girls !important; */
+/* } */
+
+.view {
+    background: url("../img/gug.jpg")no-repeat center center;
+    background-size: cover;
+}
+
+#directions {
+    background: url("../img/gmap.png")no-repeat top center;
+    background-size: contain;
+}
+
+.card-title a {
+    color: inherit;
+}
+
+.navbar {
+    background-color: transparent;
+}
+
+.top-nav-collapse {
+    background-color: #4285F4;
+}
+
+@media only screen and (max-width: 992px) {
+    .navbar {
+        background-color: #4285F4;
+    }
+}
